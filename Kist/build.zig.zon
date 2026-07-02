@@ -1,0 +1,11 @@
+.{
+    .name = .kist,
+    .version = "0.1.0",
+    .fingerprint = 0xd91fc0a175a60364,
+    .minimum_zig_version = "0.14.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
